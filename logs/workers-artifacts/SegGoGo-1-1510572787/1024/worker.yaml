@@ -1,0 +1,4 @@
+worker-id: 123163ac-24b3-4fca-b815-32cbd21c59ed
+logs.users: []
+logs.groups: []
+topology.submitter.user: sker
